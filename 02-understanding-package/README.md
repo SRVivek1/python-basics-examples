@@ -5,7 +5,7 @@
 - An empty \_\_init__.py allows to import all the functions of the module.
 
 
-# Restricting function to be imported
+# \_\_init__.py : Restricting function to be imported
 - Here we're allowing only gfg and sum to be imported from module1 and module2
 ````
 from .module1 import gfg
