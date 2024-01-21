@@ -23,7 +23,7 @@ print(f"type(sett) : {type(sett)}")
 print(f'str data : {sett}')
 
 
-# can be use to type cast other collection
+# can be used to type cast other collection
 # if no args passed create empty set
 sett = set()
 print(f"type(sett) : {type(sett)}")
