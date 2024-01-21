@@ -36,6 +36,4 @@
 # map(function, *iterables) function
 - executes the specified function for each item in an iterable.
 - we can use this function to create a new list by adding two lists.
-- ```
-res = list
-  ```
+  - ```list(map(lambda a, b: a + b, list_1, list_2))```
