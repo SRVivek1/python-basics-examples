@@ -50,6 +50,16 @@ if __name__ == '__main__':
     key = 130
     index = search(arr, key)
     print(f"{key} index: {index}")
+
+#
+# Output
+# -----------------
+# /usr/bin/python3 /home/viveksingh/wrkspace/python-basics-examples/zz-practice-programs/array_sorted_data_binary_search.py
+# 10 index: 4
+# 170 index: 10
+# 105 index: -1
+# 0 index: -1
+# 130 index: 7
 #
 #
-#
+
